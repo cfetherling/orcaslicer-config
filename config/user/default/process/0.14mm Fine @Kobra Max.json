@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "process template @Anycubic Anycubic Kobra Max 0.6 nozzle",
+    "initial_layer_print_height": "0.2",
+    "is_custom_defined": "0",
+    "layer_height": "0.14",
+    "name": "0.14mm Fine @Kobra Max",
+    "print_settings_id": "0.14mm Fine @Kobra Max",
+    "version": "1.7.0.2"
+}

@@ -1,0 +1,22 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 S1 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Overture Matte PLA @System - Tweaked"
+    ],
+    "from": "User",
+    "inherits": "Overture Matte PLA @System",
+    "is_custom_defined": "0",
+    "name": "Overture Matte PLA @System - Tweaked",
+    "pressure_advance": [
+        "0.09"
+    ],
+    "version": "2.3.1.10"
+}

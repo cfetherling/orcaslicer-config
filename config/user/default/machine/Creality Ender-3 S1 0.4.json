@@ -1,0 +1,41 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_max_acceleration_x": [
+        "3000",
+        "500"
+    ],
+    "machine_max_acceleration_y": [
+        "3000",
+        "500"
+    ],
+    "machine_max_acceleration_z": [
+        "200",
+        "100"
+    ],
+    "machine_start_gcode": "PRINT_START\n",
+    "name": "Creality Ender-3 S1 0.4",
+    "nozzle_type": "hardened_steel",
+    "print_host": "192.168.1.81",
+    "printable_area": [
+        "0x0",
+        "230x0",
+        "230x229",
+        "0x229"
+    ],
+    "printer_settings_id": "Creality Ender-3 S1 0.4",
+    "retraction_length": [
+        "0.8"
+    ],
+    "retraction_speed": [
+        "40"
+    ],
+    "use_firmware_retraction": "1",
+    "version": "2.3.1.10",
+    "z_hop_types": [
+        "Spiral Lift"
+    ]
+}

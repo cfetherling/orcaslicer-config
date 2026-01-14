@@ -1,4 +1,4 @@
 /config/plugins
 /config/system
-/config/user/default
 /config/log
+*.bak

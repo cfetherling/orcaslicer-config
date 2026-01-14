@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "process template @Anycubic Anycubic Kobra Max 0.6 nozzle",
+    "is_custom_defined": "0",
+    "name": "0.30mm Draft @Kobra Max",
+    "print_settings_id": "0.30mm Draft @Kobra Max",
+    "version": "1.7.0.2"
+}
