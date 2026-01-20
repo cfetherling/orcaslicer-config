@@ -1,8 +1,16 @@
 {
+    "exclude_object": "1",
     "from": "User",
+    "gap_infill_speed": "180",
     "inherits": "process template @Anycubic Anycubic Kobra Max 0.6 nozzle",
+    "initial_layer_infill_speed": "60",
+    "inner_wall_speed": "130",
+    "internal_solid_infill_speed": "180",
     "is_custom_defined": "0",
     "name": "0.30mm Draft @Kobra Max",
     "print_settings_id": "0.30mm Draft @Kobra Max",
+    "sparse_infill_speed": "180",
+    "support_speed": "130",
+    "top_surface_speed": "160",
     "version": "1.7.0.2"
 }

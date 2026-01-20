@@ -2,6 +2,9 @@
     "close_fan_the_first_x_layers": [
         "2"
     ],
+    "compatible_printers": [
+        "Creality Ender-3 S1 0.4"
+    ],
     "fan_max_speed": [
         "70"
     ],
@@ -15,10 +18,16 @@
         "20"
     ],
     "filament_settings_id": [
-        "Sunlu PLA+"
+        "Sunlu PLA+ @Ender3"
     ],
     "filament_vendor": [
         "Hatchbox"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_wipe_distance": [
+        "2"
     ],
     "from": "User",
     "full_fan_speed_layer": [
@@ -29,7 +38,7 @@
     ],
     "inherits": "Generic PLA template @Anycubic Kobra Max 0.6 nozzle",
     "is_custom_defined": "0",
-    "name": "Sunlu PLA+",
+    "name": "Sunlu PLA+ @Ender3",
     "nozzle_temperature": [
         "215"
     ],

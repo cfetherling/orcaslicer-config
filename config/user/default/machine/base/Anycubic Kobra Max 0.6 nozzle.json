@@ -125,7 +125,7 @@
         "0"
     ],
     "machine_pause_gcode": "M601",
-    "machine_start_gcode": "M190 S0 ; Prevents PrusaSlicer from adding its own heating code\nM109 S0 ; Prevents PrusaSlicer from adding its own heating code\nPRINT_START BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature]",
+    "machine_start_gcode": "M190 S0 ; Prevents PrusaSlicer from adding its own heating code\nM109 S0 ; Prevents PrusaSlicer from adding its own heating code\nPRINT_START BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature] MATERIAL=[filament_type]",
     "machine_tool_change_time": "0",
     "machine_unload_filament_time": "0",
     "manual_filament_change": "0",
@@ -158,7 +158,7 @@
     ],
     "printable_height": "450",
     "printer_model": "Anycubic Kobra Max",
-    "printer_notes": "",
+    "printer_notes": "Z-hop was .4 but set it to 0 currently due to custom G10 G11 macros",
     "printer_settings_id": "Anycubic Kobra Max 0.6 nozzle",
     "printer_structure": "i3",
     "printer_technology": "FFF",

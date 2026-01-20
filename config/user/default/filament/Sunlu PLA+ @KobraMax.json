@@ -14,17 +14,11 @@
     "filament_max_volumetric_speed": [
         "20"
     ],
-    "filament_retraction_length": [
-        "1"
-    ],
-    "filament_retraction_speed": [
-        "40"
-    ],
     "filament_settings_id": [
-        "Hatchbox PLA"
+        "Sunlu PLA+ @KobraMax"
     ],
     "filament_vendor": [
-        "Hatchbox"
+        "Sunlu"
     ],
     "from": "User",
     "full_fan_speed_layer": [
@@ -33,14 +27,20 @@
     "hot_plate_temp_initial_layer": [
         "60"
     ],
-    "inherits": "Generic PLA",
+    "inherits": "Generic PLA template @Anycubic Kobra Max 0.6 nozzle",
     "is_custom_defined": "0",
-    "name": "Hatchbox PLA",
+    "name": "Sunlu PLA+ @KobraMax",
+    "nozzle_temperature": [
+        "215"
+    ],
     "nozzle_temperature_initial_layer": [
         "210"
     ],
     "pressure_advance": [
         "0.05"
+    ],
+    "slow_down_layer_time": [
+        "12"
     ],
     "version": "1.7.0.2"
 }

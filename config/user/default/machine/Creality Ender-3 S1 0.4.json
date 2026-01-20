@@ -16,9 +16,9 @@
         "200",
         "100"
     ],
-    "machine_start_gcode": "PRINT_START\n",
+    "machine_start_gcode": "PRINT_START BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature]\n",
     "name": "Creality Ender-3 S1 0.4",
-    "nozzle_type": "hardened_steel",
+    "nozzle_type": "brass",
     "print_host": "192.168.1.81",
     "printable_area": [
         "0x0",
@@ -35,6 +35,9 @@
     ],
     "use_firmware_retraction": "1",
     "version": "2.3.1.10",
+    "wipe": [
+        "0"
+    ],
     "z_hop_types": [
         "Spiral Lift"
     ]

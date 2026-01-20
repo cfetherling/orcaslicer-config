@@ -5,24 +5,30 @@
     "enable_pressure_advance": [
         "1"
     ],
-    "filament_flow_ratio": [
-        "0.93"
+    "filament_cost": [
+        "15"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "15"
     ],
     "filament_settings_id": [
-        "Hatchbox PLA (Ender 3)"
-    ],
-    "filament_vendor": [
-        "Hatchbox"
+        "Bambu PLA Matte @Ender3"
     ],
     "from": "User",
-    "inherits": "Overture Matte PLA @System",
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "inherits": "Bambu PLA Matte @System",
     "is_custom_defined": "0",
-    "name": "Hatchbox PLA (Ender 3)",
+    "name": "Bambu PLA Matte @Ender3",
+    "nozzle_temperature": [
+        "225"
+    ],
     "pressure_advance": [
-        "0.08"
+        "0.028"
+    ],
+    "slow_down_layer_time": [
+        "15"
     ],
     "version": "2.3.1.10"
 }
