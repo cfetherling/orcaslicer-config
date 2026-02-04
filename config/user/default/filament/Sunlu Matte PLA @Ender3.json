@@ -2,6 +2,12 @@
     "close_fan_the_first_x_layers": [
         "2"
     ],
+    "compatible_printers": [
+        "Creality Ender-3 S1 0.4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "fan_max_speed": [
         "70"
     ],
@@ -11,14 +17,23 @@
     "filament_cost": [
         "15"
     ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
     "filament_max_volumetric_speed": [
         "20"
     ],
     "filament_settings_id": [
-        "Sunlu PLA+ @KobraMax"
+        "Sunlu Matte PLA @Ender3"
     ],
     "filament_vendor": [
         "Sunlu"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_wipe_distance": [
+        "2"
     ],
     "from": "User",
     "full_fan_speed_layer": [
@@ -28,22 +43,13 @@
         "60"
     ],
     "inherits": "Generic PLA template @Anycubic Kobra Max 0.6 nozzle",
-    "internal_bridge_fan_speed": [
-        "70"
-    ],
     "is_custom_defined": "0",
-    "name": "Sunlu PLA+ @KobraMax",
-    "nozzle_temperature": [
-        "215"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "210"
-    ],
+    "name": "Sunlu Matte PLA @Ender3",
     "pressure_advance": [
-        "0.05"
+        "0.018"
     ],
     "slow_down_layer_time": [
-        "12"
+        "5"
     ],
     "version": "1.7.0.2"
 }
