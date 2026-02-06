@@ -29,12 +29,6 @@
     "filament_vendor": [
         "Sunlu"
     ],
-    "filament_wipe": [
-        "1"
-    ],
-    "filament_wipe_distance": [
-        "2"
-    ],
     "from": "User",
     "full_fan_speed_layer": [
         "5"
